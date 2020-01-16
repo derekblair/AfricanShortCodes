@@ -1,3 +1,5 @@
+# Zambia Short Codes
+
 | Code     | Description   |
 | :---------|-------------:| 
 | *335#    | Buy Data      | 
