@@ -55,6 +55,6 @@ Current short-codes by African country.
 - Togo
 - Tunisia
 - Uganda
-- Zambia
+- [Zambia](countries/zambia.md)
 - Zimbabwe
 
